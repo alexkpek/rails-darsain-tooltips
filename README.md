@@ -1,4 +1,4 @@
-# rails-darsain-tooltips
+# rails-darsain-tooltips <a href="http://badge.fury.io/rb/rails-darsain-tooltips"> <img src="https://badge.fury.io/rb/rails-darsain-tooltips.svg" alt="Gem Version" height="18"></a>
 
 rails-darsain-tooltips wraps the [Darsain Tooltips](http://darsa.in/tooltips/) for use in Rails 3.1 and above.
 
